@@ -1,0 +1,14 @@
+{
+  "id": "ai.hanzo.system-preferences",
+  "name": "SystemPreferences",
+  "version": "4.2.0",
+  "description": "Customize your zOS experience",
+  "icon": "⚙️",
+  "category": "system",
+  "author": "Hanzo AI",
+  "repository": "https://github.com/zos-apps/system-preferences",
+  "minSdkVersion": "4.0.0",
+  "permissions": ["system"],
+  "main": "src/index.tsx",
+  "installable": true
+}
